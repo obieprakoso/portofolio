@@ -27,7 +27,7 @@ const Contact = () => {
             </div>
             <div className="flex items-center gap-x-8">
               <HomeIcon size={18} className="text-primary"/>
-              <div>Jl. Kp. Gabus Rawa, RT.004/RW.006, Srijaya, Kec. Tambun Utara, Kabupaten Bekasi, Jawa Barat 17510</div>
+              <div>Kp. Gabus Rawa, Srijaya, Kec. Tambun Utara</div>
             </div>
             <div className="flex items-center gap-x-8">
               <PhoneCall size={18} className="text-primary"/>
